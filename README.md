@@ -10,13 +10,13 @@ Spotify is one of the world’s leading music streaming platforms, where underst
 
 ## Data Description  
 - **Source:** Spotify track and artist statistics (2020–2022)  
-- **Period covered:** 2020–2021 and 2021–2022 streaming data  
+- **Period covered:** 2010-2023 streaming data  
 - **Key fields:** Track name, artist, genre, release year, streams, likes, playlist appearances, duration, popularity score  
 - **Size of dataset:** 1,000+ tracks across multiple genres  
 
 ## Analytical Approach  
 - Data cleaning and preprocessing using Power BI  
-- Exploratory data analysis (EDA) using Excel  
+- Exploratory data analysis (EDA) using Powe BI
 - Data visualization and interactive dashboards using Power BI  
 
 ## Key Insights & Findings  
@@ -41,7 +41,6 @@ The Power BI dashboard provides an interactive overview of track, artist, and ge
 
 ## Tools Used  
 - Power BI  
-- Excel  
 
 ## Project Repository Structure  
 - `/data`: Raw and processed Spotify data files  
